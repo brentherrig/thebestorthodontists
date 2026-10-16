@@ -5,6 +5,7 @@ City lists of orthodontic practices built from public data only: Google ratings 
 ## Lists
 - [Best orthodontists in Denver, Colorado](https://thebestorthodontists.com/denver-co/)
 - [Best orthodontists in Albuquerque, New Mexico](https://thebestorthodontists.com/albuquerque-nm/)
+- [Best orthodontists in Chesapeake, Virginia](https://thebestorthodontists.com/chesapeake-va/)
 
 ## Method
 - [How the lists are built](https://thebestorthodontists.com/methodology/)
