@@ -1,0 +1,11 @@
+# The Best Orthodontists
+
+City lists of orthodontic practices built from public data only: Google ratings and review counts, the AAO locator and ABO board certification. No practice pays to be listed.
+
+## Lists
+- [Best orthodontists in Denver, Colorado](https://thebestorthodontists.com/denver-co/)
+- [Best orthodontists in Albuquerque, New Mexico](https://thebestorthodontists.com/albuquerque-nm/)
+
+## Method
+- [How the lists are built](https://thebestorthodontists.com/methodology/)
+- [Corrections](https://thebestorthodontists.com/corrections/)
